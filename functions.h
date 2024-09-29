@@ -1,1 +1,1 @@
-double discrim();
+double discrim(double a, double b, double c);
